@@ -7,9 +7,10 @@ o	Added the features to dynamically Add, Delete, search notes by passing the req
 
 ![Screenshot](https://github.com/styxOO7/Notes-App-/blob/master/1.png) 
 </br>
-Home Page with dark and light mode. </br>
+Home Page with dark and light mode. 
+</br>
 ![Screenshot](https://github.com/styxOO7/Notes-App-/blob/master/2.png) 
-
+</br>
 Add notes, delete, search notes feature</br>
 </br>
 ![Screenshot](https://github.com/styxOO7/Notes-App-/blob/master/3.png)
